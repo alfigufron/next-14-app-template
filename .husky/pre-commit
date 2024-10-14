@@ -1,0 +1,5 @@
+echo "✓ Lint before committing"
+
+npx lint-staged
+
+echo "✓ Everything goes smoothly"
